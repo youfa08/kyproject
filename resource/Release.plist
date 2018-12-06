@@ -12,7 +12,7 @@
                     <string>software-package</string>
                     <key>url</key>
                     //这个地方写ipa地址
-                    <string>http://222.162.70.105:8081/res/app/cbsjy.ipa</string>
+                    <string>https://raw.githubusercontent.com/youfa08/kyproject/master/resource/cbsjy.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
